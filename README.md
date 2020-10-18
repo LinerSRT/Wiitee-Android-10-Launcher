@@ -44,7 +44,7 @@ Wich contains:
 
 Place new config file in folder with **clockskin.xml**, remove full screen images from watchface. 
 Edit folowing tags with wanted live wallpaper, and launcher automaticaly try to apply it if you choose new clock.
-So idea is simple, as background in engine wiitee use transparent (lets, call it color, but in real its using nothing :D ) color, and if engine can find new config file, its automaticaly apply wallpaper, and engine show those wallpaper as background on watchface. Other layers are same. 
+So idea is simple, as background in engine wiitee use transparent (lets, call it color, but in real its using nothing :D ) color, and if engine can find new config file, its automaticaly apply wallpaper, and engine show those wallpaper as background on watchface. Other layers are same as previous versions. 
 
 
 *Im use it in my beta version of launcher (yup, it can show live wallpapers, gifs and musch more, but some settings are hidden. Cause it have not much stability)*
