@@ -7,7 +7,6 @@
 
 ![](https://img.shields.io/badge/Package-com.wiite.home-blue)
 
-Download here
 
 
 ---------------------------------
