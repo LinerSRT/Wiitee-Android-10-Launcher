@@ -2,13 +2,16 @@
 ---------------------------------
 
 ![](https://img.shields.io/badge/API%20Target-29-green) **Android 10**
+
 ![](https://img.shields.io/badge/API%20Min-24-orange) ** Android 7.0** *(Downgraded)*
+
 ![](https://img.shields.io/badge/Package-com.wiite.home-blue)
+
 Download here
 
 
 ---------------------------------
-<div><p style="float: left;"><img src="https://cdn1.iconfinder.com/data/icons/color-bold-style/21/56-512.png" height="32" width="32"></p><p><h3>**Removed**</h3></p>
+<div><p style="float: left;"><img src="https://cdn1.iconfinder.com/data/icons/color-bold-style/21/56-512.png" height="32" width="32"></p><p><h3>Removed</h3></p>
 </div>
 * Fintess screens* (Require special apps in system directory with modded framework!)*
 * Weather screens* (Require special apps in system directory with modded framework!)*
